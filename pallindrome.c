@@ -1,7 +1,7 @@
 #include <stdio.h>
 void pallindrome() {
   int n, reversed = 0, remainder, original;
-    printf("Enter an integer:\n ");
+    printf("Enter an the integer:\n ");
     scanf("%d", &n);
     original = n;
 
